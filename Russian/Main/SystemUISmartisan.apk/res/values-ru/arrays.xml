@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="smartisan_app_call_notification">
+        <item>com.android.phone</item>
+    </string-array>
+    <string-array name="smartisan_app_mms_notification">
+        <item>com.android.mms</item>
+    </string-array>
+    <string-array name="smartisan_app_email_notification">
+        <item>com.android.email</item>
+    </string-array>
+    <string-array name="smartisan_app_android_notification">
+        <item>android</item>
+    </string-array>
+    <string-array name="smartisan_app_systemui_notification">
+        <item>com.smartisanos.systemui</item>
+    </string-array>
+    <string-array name="smartisan_app_social_notification">
+        <item>com.tencent.mobileqq</item>
+        <item>com.tencent.mm</item>
+        <item>com.sina.weibo</item>
+        <item>com.immomo.momo</item>
+        <item>cn.com.fetion</item>
+        <item>com.alibaba.mobileim</item>
+        <item>com.aol.mobile.aim</item>
+        <item>com.baidu.tieba</item>
+        <item>com.duowan.mobile</item>
+        <item>com.facebook.orca</item>
+        <item>com.google.android.apps.blogger</item>
+        <item>com.google.android.apps.plus</item>
+        <item>com.hootsuite.droid.full</item>
+        <item>com.instagram.android</item>
+        <item>com.joelapenna.foursquared</item>
+        <item>com.myspace.android</item>
+        <item>com.path</item>
+        <item>com.pica.msn</item>
+        <item>com.pinterest</item>
+        <item>com.qzone</item>
+        <item>com.renren.mobile.android</item>
+        <item>com.skype.rover</item>
+        <item>com.tencent.WBlog</item>
+        <item>com.tumblr</item>
+        <item>com.twitter.android</item>
+        <item>com.viber.voip</item>
+        <item>com.weico.sinaweibo</item>
+        <item>com.whatsapp</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.yahoo.mobile.client.android.im</item>
+        <item>com.zhihu.android</item>
+        <item>co.vine.android</item>
+        <item>im.yixin</item>
+        <item>jp.naver.line.android</item>
+        <item>me.imid.fuubo</item>
+        <item>me.papa</item>
+    </string-array>
+    <string-array name="status_bar_forbid_white_list">
+        <item>com.android.apps.tag</item>
+        <item>com.android.dreams.basic</item>
+        <item>com.android.dreams.phototable</item>
+        <item>com.android.galaxy4</item>
+        <item>com.android.gallery3d</item>
+        <item>com.android.htmlviewer</item>
+        <item>com.android.inputmethod.latin</item>
+        <item>com.android.magicsmoke</item>
+        <item>com.android.musicvis</item>
+        <item>com.android.noisefield</item>
+        <item>com.android.phasebeam</item>
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.drm</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.android.smspush</item>
+        <item>com.android.wallpaper</item>
+        <item>com.android.wallpaper.holospiral</item>
+        <item>com.cyanogenmod.filemanager.themes</item>
+        <item>com.google.android.apps.uploader</item>
+        <item>com.google.android.feedback</item>
+        <item>com.google.android.gsf</item>
+        <item>com.google.android.gsf.login</item>
+        <item>com.google.android.inputmethod.latin.dictionarypack</item>
+        <item>com.google.android.marvin.talkback</item>
+        <item>com.google.android.onetimeinitializer</item>
+        <item>com.google.android.partnersetup</item>
+        <item>com.google.android.tts</item>
+        <item>com.google.android.voicesearch</item>
+        <item>com.smartisanos.calculator</item>
+        <item>com.smartisanos.notes</item>
+        <item>com.smartisanos.theme.default</item>
+        <item>com.svox.pico</item>
+        <item>com.tmobile.thememanager</item>
+        <item>com.smartisanos.clock</item>
+        <item>com.android.voicedialer</item>
+        <item>com.cyanogenmod.updater</item>
+        <item>com.smartisan.updater</item>
+        <item>com.google.android.syncadapters.bookmarks</item>
+        <item>com.google.android.syncadapters.calendar</item>
+        <item>com.google.android.syncadapters.contacts</item>
+    </string-array>
+</resources>
