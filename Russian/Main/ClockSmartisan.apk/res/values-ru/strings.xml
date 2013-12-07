@@ -28,7 +28,7 @@
     <string name="worldClock">Мировое время</string>
     <string name="tabBar_worldclock">Мировое время</string>
     <string name="tabBar_stopwatch">Секундомер</string>
-    <string name="tabBar_timer">Время</string>
+    <string name="tabBar_timer">Таймер</string>
     <string name="zero">00:00</string>
     <string name="app_label">Часы</string>
     <string name="alarm_list_title">Будильник</string>
