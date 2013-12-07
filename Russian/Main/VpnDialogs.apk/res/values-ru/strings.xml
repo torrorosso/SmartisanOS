@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="prompt">%s attempts to create a VPN connection.</string>
-    <string name="warning">By proceeding, you are giving the application permission to intercept all network traffic. <b>Do NOT accept unless you trust the application.</b>" Otherwise, you run the risk of having your data compromised by a malicious software. "</string>
-    <string name="accept">I trust this application.</string>
-    <string name="legacy_title">VPN is connected</string>
-    <string name="configure">Configure</string>
-    <string name="disconnect">Disconnect</string>
-    <string name="session">Session:</string>
-    <string name="duration">Duration:</string>
-    <string name="data_transmitted">Sent:</string>
-    <string name="data_received">Received:</string>
+    <string name="prompt">%s пытается создать VPN соединение.</string>
+    <string name="warning">Это позволит приложению контролировать весь интернет траффик с этого устройства <b>Не соглашайтесь, если не доверяете приложению</b>" В противном случае, вы рескуете передать свои личные данные злоумышленникам"</string>
+    <string name="accept">Я доверяю этому приложению.</string>
+    <string name="legacy_title">VPN подключено</string>
+    <string name="configure">Настройки</string>
+    <string name="disconnect">Отключено</string>
+    <string name="session">Сессия:</string>
+    <string name="duration">Длительность:</string>
+    <string name="data_transmitted">Отправлено:</string>
+    <string name="data_received">Получено:</string>
     <string name="data_value_format">%1$s bytes / %2$s packets</string>
 </resources>
