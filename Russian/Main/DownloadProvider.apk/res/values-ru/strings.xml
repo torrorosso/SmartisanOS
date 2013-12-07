@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Download Manager</string>
-    <string name="permlab_downloadManager">Access download manager.</string>
-    <string name="permdesc_downloadManager">Allows the app to access the download manager and to use it to download files. Malicious apps can use this to disrupt downloads and access private information.</string>
-    <string name="permlab_downloadManagerAdvanced">Advanced download manager functions.</string>
-    <string name="permdesc_downloadManagerAdvanced">"Allows the app to access the download manager's advanced functions. Malicious apps can use this to disrupt downloads and access private information."</string>
-    <string name="permlab_downloadCompletedIntent">Send download notifications.</string>
-    <string name="permdesc_downloadCompletedIntent">Allows the app to send notifications about completed downloads. Malicious apps can use this to confuse other apps that download files.</string>
-    <string name="permlab_seeAllExternal">See all downloads to USB storage</string>
-    <string name="permdesc_seeAllExternal">Allows the app to see all downloads to the SD card, regardless of which app downloaded them.</string>
-    <string name="permlab_downloadCacheNonPurgeable">Reserve space in the download cache</string>
-    <string name="permdesc_downloadCacheNonPurgeable">"Allows the app to download files to the download cache, which can't be automatically deleted when the download manager needs more space."</string>
-    <string name="permlab_downloadWithoutNotification">download files without notification</string>
-    <string name="permdesc_downloadWithoutNotification">Allows the app to download files through the download manager without any notification being shown to the user.</string>
-    <string name="permlab_accessAllDownloads">Access all system downloads</string>
-    <string name="permdesc_accessAllDownloads">Allows the app to view and modify all downloads initiated by any app on the system.</string>
-    <string name="download_unknown_title">&lt;Untitled></string>
-    <string name="notification_download_complete">Download complete.</string>
-    <string name="notification_download_failed">Download unsuccessful.</string>
-    <string name="notification_need_wifi_for_size">Download size requires Wi-Fi.</string>
-    <string name="notification_paused_in_background">Paused in background.</string>
-    <string name="wifi_required_title">Download too large for operator network</string>
-    <string name="wifi_required_body" formatted="false">"You must use Wi-Fi to complete this %s download. 
+    <string name="app_label">Менеджер загрузок</string>
+    <string name="permlab_downloadManager">Доступ к менеджеру загрузок.</string>
+    <string name="permdesc_downloadManager">Разрешает приложению доступ к менеджеру загрузок и загрузке файлов с помощью него. Вредоносные программы могут использовать это для прерывания загрузок  и доступа к личной информации.</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузок.</string>
+    <string name="permdesc_downloadManagerAdvanced">"Разрешает приложению доступ к расширенным функциям менеджера загрузок. Вредоносные программы могут использовать это для прерывания загрузок  и доступа к личной информации."</string>
+    <string name="permlab_downloadCompletedIntent">Посылвть уведомления о загрузках.</string>
+    <string name="permdesc_downloadCompletedIntent">Разрешает приложению посылать уведомления о завершенных загрузках. Вредоносные программы могут использовать это чтобы сбить с толку.</string>
+    <string name="permlab_seeAllExternal">Видеть все загрузки на USB хранилище</string>
+    <string name="permdesc_seeAllExternal">Разрешает приложению видеть все загрузки на SD карте, не взирая на то, какимприложением они загружены.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервировать место для кэша загрузок</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Разрешает приложению  загружать файлы в кэш загрузок, они не смогут быть автоматически удалены, если менеджеру загрузок не хватит места."</string>
+    <string name="permlab_downloadWithoutNotification">загружать файлы без уведомления</string>
+    <string name="permdesc_downloadWithoutNotification">Разрешать приложению загружать файлы через менеджер загрузок без уведомления.</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
+    <string name="permdesc_accessAllDownloads">Разрешает приложению просматривать и изменять все загрузки, инициированные любым приложением в системе.</string>
+    <string name="download_unknown_title">&lt;Безымянный></string>
+    <string name="notification_download_complete">Загрузка завершена.</string>
+    <string name="notification_download_failed">Загрузка не удалась.</string>
+    <string name="notification_need_wifi_for_size">Размер загрузки требует Wi-Fi.</string>
+    <string name="notification_paused_in_background">Приостановлено в фоне.</string>
+    <string name="wifi_required_title">Загрузка слишком большая для операторской сети</string>
+    <string name="wifi_required_body" formatted="false">"Вы должны использовать Wi-Fi чтобы выполнить %s загрузку. 
 
-Touch %s to start this download the next time you're connected to a Wi-Fi network."</string>
-    <string name="wifi_recommended_title">Queue for download later?</string>
-    <string name="wifi_recommended_body" formatted="false">"Starting this %s download now may shorten your battery life and/or result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
+Коснитесь %s чтобы начать загрузку в следующий раз при соединении с сетью Wi-Fi."</string>
+    <string name="wifi_recommended_title">Отложить загрузку на потом?</string>
+    <string name="wifi_recommended_body" formatted="false">"Запуск этой %s загрузки сейчас может уменьшить срок работы от аккумулятора и/или вызвать чрезмерное использование передачи данных через мобильную сеть, что может привести к расходам, в зависимости от тарифа на передачу данных.
 
- Touch %s to start this download the next time you're connected to a Wi-Fi network."</string>
-    <string name="button_queue_for_wifi">Queue</string>
-    <string name="button_cancel_download">Cancel</string>
-    <string name="button_start_now">Start now</string>
+ Коснитесь %s чтобы начать загрузку в следующий раз при соединении с сетью Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Очередь</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Начать сейчас</string>
     <string name="download_percent">%d%%</string>
-    <string name="download_remaining">%s left</string>
-    <string name="download_no_application_title">"Can't open file"</string>
+    <string name="download_remaining">%s осталось</string>
+    <string name="download_no_application_title">"Невозможно открыть файл"</string>
 </resources>
