@@ -11,7 +11,6 @@
     <string name="empty_password">Пожалуйста,введите пароль</string>
     <string name="invalid_password">Неверный пароль</string>
     <string name="incorrect_password">Неправильный пароль</string>
-    <string name="multiselect" />
     <string name="selected_app">Выбрано всего [%1$s/9]</string>
     <string name="selected_back">Перетащите сюда для возврата в исходное состояние</string>
     <string name="insufficient_space">Недостаточно места</string>
