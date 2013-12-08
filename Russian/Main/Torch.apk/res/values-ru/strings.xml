@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
+    <string name="flashDeviceLuminosity" />
+    <string name="app_name">Фонарик</string>
+    <string name="about_title">О программе</string>
+    <string name="about_close">Закрыть</string>
+    <string name="description">"Эта программа работает со вспышкой камеры.
+"</string>
+    <string name="warning">"Внимание: Включенный на долгое время фонарик может привести к поломке вспышки.
+
+Максимальная яркость в режиме “Всегда включено” была протестирована на протяжении ½ часа, тем не менее всегда остается риск повредить светодиод.
+"</string>
+    <string name="license">"Оригинальный код приложения от Nexus One Torch by Ben Buxton, опубликован в соответствии с GPL, v3.
+http://n1torch.googlecode.com/
+
+Спасибо David Prieto за новый дизайн.
+
+Модифицировано для CyanogenMod by Steve Kondik.
+
+"</string>
+    <string name="warning_label">Предупреждение</string>
+    <string name="brightwarn">"Максимальная яркость была успешно протестирована на протяжении ½ часа использования, но светодиод сильно нагрелся, начал мерцать на 45 минуте. Дальнейшие испытания не проводились.
+
+Нажмите “Согласен” если вы хотите использовать на свой страх и риск."</string>
+    <string name="brightwarn_negative">Нет, спасибо</string>
+    <string name="brightwarn_accept">Согласен</string>
+    <string name="label_on">Вкл</string>
+    <string name="label_off">Выкл</string>
+    <string name="label_high">Максимальная яркость</string>
+    <string name="label_strobe">Стробоскоп</string>
+    <string name="label_frequency">Частота:</string>
+    <string name="widget_options">Основные настройки</string>
+    <string name="setting_widget_bright">Виджет</string>
+    <string name="setting_widget_strobe">Стробоскоп</string>
+    <string name="setting_frequency_title">Частота стробоскопа</string>
+    <string name="setting_frequency_dialog">Частота</string>
+    <string name="setting_frequency_hz">Hz</string>
+    <string name="setting_add_widget">Добавить виджет</string>
+    <string name="not_torch_title">Фонарик</string>
+    <string name="not_torch_summary">Фонарик в настоящее время включен</string>
+</resources>
