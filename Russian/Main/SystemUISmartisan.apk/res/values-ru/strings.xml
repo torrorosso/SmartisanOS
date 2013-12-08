@@ -34,7 +34,7 @@
     <string name="widget_vpn">VPN</string>
     <string name="smartsian_shot_menu_btn_dismiss">Отмена</string>
     <string name="smartsian_shot_menu_btn_crop">Сохранить</string>
-    <string name="forbid_comfirm">Запретить</string>
+    <string name="forbid_comfirm">Откл</string>
     <string name="forbid_cancel">Отмена</string>
     <string name="forbid_dialog_message">Не получать уведомления от этого приложения, вы можете восстановить эту настройку в \"Настройки - Центр уведомлений\"</string>
     <string name="no_storage">Смонтируйте USB накопитель перед снятием скриншота.</string>
