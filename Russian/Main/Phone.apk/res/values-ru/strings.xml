@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="in_call_noise_suppression_audioparameter">noise_suppression=on=off</string>
-    <string name="phoneAppLabel">Phone</string>
+    <string name="phoneAppLabel">Телефон</string>
     <string name="emergencyDialerIconLabel">Emergency Dialer</string>
     <string name="phoneIconLabel">Phone</string>
     <string name="fdnListLabel">FDN list</string>
