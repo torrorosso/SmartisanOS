@@ -32,7 +32,7 @@
     <string name="share_dialog_send_via_sms">Послать по  SMS</string>
     <string name="share_dialog_send_via_email">Послать по email</string>
     <string name="share_dialog_copy_text">Копировать текст</string>
-    <string name="share_dialog_send_via_weibo">послать через Weibo</string>
+    <string name="share_dialog_send_via_weibo">Послать через Weibo</string>
     <string name="share_dialog_send_via_long_length_weibo">Послать как изображение</string>
     <string name="share_dialog_cancel">Отмена</string>
     <string name="delete_dialog_confirm">Вы действительно хотите удалить заметку?</string>
