@@ -8,7 +8,7 @@
     <string name="config_export_extensions_to_consider" />
     <string name="config_prohibited_phone_number_regexp" />
     <string name="app_name">com.weibo.sdk.android.demo</string>
-    <string name="launcherDialer">Phone</string>
+    <string name="launcherDialer">Телефон</string>
     <string name="people">Contacts</string>
     <string name="t9_default_sort">2</string>
     <string name="t9_sort_title">T9 Sorting mode</string>
