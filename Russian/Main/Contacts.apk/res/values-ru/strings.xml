@@ -573,7 +573,7 @@ Choose one of the following options:"</string>
     <string name="sort_city">Адрес</string>
     <string name="sort_times">Частота</string>
     <string name="sort_add_times">Добавлен</string>
-    <string name="tab_group">группа</string>
+    <string name="tab_group">Группы</string>
     <string name="tab_missed_calls">Пропущенные</string>
     <string name="btn_edit">Изменить</string>
     <string name="btn_remove">Удалить</string>
