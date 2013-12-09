@@ -11,7 +11,7 @@
     <string name="search_no_result">Нет результатов</string>
     <string name="nowplaying">Сейчас проигрывается</string>
     <string name="s_random_play">Перемешать</string>
-    <string name="s_remove_track_list">Удалить треклист</string>
+    <string name="s_remove_track_list">Удалить</string>
     <string name="s_edit_track_list">Изменить</string>
     <string name="s_add_track">Добавить песню</string>
     <string name="settings">Настройки</string>
@@ -61,7 +61,7 @@
     <string name="cloud_music">Облако</string>
     <string name="sort_by_song_name">Имя</string>
     <string name="sort_by_song_score">Рейтинг</string>
-    <string name="sort_by_song_play_time">Частота воспроизведения</string>
+    <string name="sort_by_song_play_time">Частота</string>
     <string name="selected_track_count_desc">Размер добавленной песни</string>
     <string name="error_audio_file">Файл поврежден или удален</string>
     <string name="dialog_title_text_delete_one">Удалить плэйлист?</string>
@@ -75,18 +75,18 @@
     <string name="no_artist">Нет артистов</string>
     <string name="no_album">Нет альбомов</string>
     <string name="no_song">Нет песен</string>
-    <string name="show_song">Все песни</string>
+    <string name="show_song"> </string>
     <string name="no_style">Нет жанров</string>
-    <string name="show_style">Все жанры</string>
-    <string name="no_file">Нет музыкальной папки</string>
-    <string name="show_file">Папки с музыкой</string>
-    <string name="show_album">Все альбомы</string>
-    <string name="show_artist">Все артисты</string>
+    <string name="show_style"> </string>
+    <string name="no_file">Нет музыкальных папок</string>
+    <string name="show_file"> </string>
+    <string name="show_album"> </string>
+    <string name="show_artist"> </string>
     <string name="create_playlist">Здесь вы можете создать собственный плэйлист</string>
     <string name="addsong_playlist">Вы можете добавить песни в существующий плэйлист</string>
     <string name="dialog_delete_song">Нельзя удалить проигрываемую песню</string>
     <string name="dialog_delete_sure">Удалить</string>
     <string name="mute">Пожалуйста, включите звук</string>
-    <string name="genus">  of %d songs belong to this artist  </string>
-    <string name="dialog_remove_song">Can not remove a playing song</string>
+    <string name="genus">  из %d пренадлежат этому исполнителю  </string>
+    <string name="dialog_remove_song">Нельзя удалить проигрываемую песню</string>
 </resources>
