@@ -11,7 +11,7 @@
         <item quantity="one">1 песня</item>
     </plurals>
     <plurals name="Stars">
-        <item quantity="other">pвезд</item>
+        <item quantity="other">звезд</item>
         <item quantity="one">звезда</item>
     </plurals>
 </resources>
