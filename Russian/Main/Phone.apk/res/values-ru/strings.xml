@@ -544,7 +544,7 @@ Try again or call customer service for more options."</string>
     <string name="respond_via_sms_custom_message">Custom message</string>
     <string name="respond_via_sms_setting_title">Quick responses</string>
     <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
-    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_setting_summary">Quick responses </string>
     <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
     <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
     <string name="description_image_button_one">one</string>
@@ -636,7 +636,7 @@ Try again or call customer service for more options."</string>
     <string name="stk_app">Инструменты SIM</string>
     <string name="call_forward_unconditional">Безусловная</string>
     <string name="call_forward_busy">Занят</string>
-    <string name="call_forward_no_reply">Нет ответа/string>
+    <string name="call_forward_no_reply">Нет ответа</string>
     <string name="call_forward_not_reachable">Недоступен</string>
     <string name="call_forward_dialog_title">%1$s на:</string>
     <string name="call_forward_title">Переадресация звонков</string>
