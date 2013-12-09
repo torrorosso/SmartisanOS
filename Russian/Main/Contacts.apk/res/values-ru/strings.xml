@@ -211,9 +211,9 @@ To add a contact to your list of favorites:
     <string name="dialer_addAnotherCall">Add call</string>
     <string name="callDetailTitle">Call details</string>
     <string name="toast_call_detail_error">"Couldn't read details for the requested call"</string>
-    <string name="type_incoming">Входящий звонок</string>
-    <string name="type_outgoing">Исходящий звонок</string>
-    <string name="type_missed">Пропущенный звонок</string>
+    <string name="type_incoming">Входящий</string>
+    <string name="type_outgoing">Исходящий</string>
+    <string name="type_missed">Пропущенный</string>
     <string name="type_voicemail">Голосовая почта</string>
     <string name="callDetailsDurationFormatDays" formatted="false">%s дн. %s ч. %s м. %s с.</string>
     <string name="callDetailsDurationFormatHours" formatted="false">%s ч. %s м. %s с.</string>
@@ -402,13 +402,13 @@ Reason: \" %s\""</string>
     <string name="video_chat">Video chat</string>
     <string name="postal_address">Адрес</string>
     <string name="postal_street">Улица</string>
-    <string name="postal_city">City</string>
-    <string name="postal_region">Город</string>
+    <string name="postal_city">Город</string>
+    <string name="postal_region">Регтон</string>
     <string name="postal_postcode">Индекс</string>
     <string name="postal_country">Страна</string>
     <string name="full_name">Имя</string>
-    <string name="name_given">Given name</string>
-    <string name="name_family">Family name</string>
+    <string name="name_given">Имя</string>
+    <string name="name_family">Фамилия</string>
     <string name="name_prefix">Name prefix</string>
     <string name="name_middle">Middle name</string>
     <string name="name_suffix">Name suffix</string>
@@ -449,10 +449,10 @@ Choose one of the following options:"</string>
     <string name="upgrade_out_of_memory_retry">Retry upgrade</string>
     <string name="search_results_searching">Searching…</string>
     <string name="no_contacts_selected">No contacts selected</string>
-    <string name="add_field">Add another field</string>
-    <string name="add_new_entry_for_section">Add new</string>
-    <string name="event_edit_field_hint_text">Date</string>
-    <string name="group_edit_field_hint_text">Group name</string>
+    <string name="add_field">Добавить поле</string>
+    <string name="add_new_entry_for_section">Добавить</string>
+    <string name="event_edit_field_hint_text">Дата</string>
+    <string name="group_edit_field_hint_text">Название группы</string>
     <string name="contact_status_update_attribution">via %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
     <string name="description_star">favorite</string>
@@ -590,7 +590,7 @@ Choose one of the following options:"</string>
     <string name="btn_info_call">Вызов</string>
     <string name="btn_share_contact_text">Послать контакт как текст</string>
     <string name="btn_share">Поделиться</string>
-    <string name="btn_recent">последние</string>
+    <string name="btn_recent">Последние</string>
     <string name="btn_delete_contact">Удалить контакт</string>
     <string name="btn_share_contact_vcf">послать контакт как vcf</string>
     <string name="btn_delete_this_contact">Удалить контакт</string>
