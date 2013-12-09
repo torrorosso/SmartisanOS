@@ -79,7 +79,7 @@
     <string name="status_bar_no_notifications_title">Нет уведомлений</string>
     <string name="status_bar_ongoing_events_title">Текущие</string>
     <string name="status_bar_latest_events_title">Уведомления</string>
-    <string name="battery_low_title">Подсоедините зарядное устройство</string>
+    <string name="battery_low_title">Подсоедините зарядку</string>
     <string name="battery_low_subtitle">Аккумулятор разряжается.</string>
     <string name="battery_low_percent_format">Аккумулятор разряжен, осталось %d%%</string>
     <string name="invalid_charger">"Зарядка от USB не поддерживается.
