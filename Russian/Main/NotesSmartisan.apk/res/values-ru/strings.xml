@@ -52,7 +52,7 @@
     <string name="today">Сегодня</string>
     <string name="yesterday">Вчера</string>
     <string name="future">В будущем</string>
-    <string name="call_info">%1$s Call with %2$s</string>
+    <string name="call_info">%1$s Разговор с %2$s</string>
     <string name="share_toast_success_text">Успешно авторизован！</string>
     <string name="toast_failed_text">Авторизация не удалась！</string>
     <string name="toast_net_error">Время соединения вышло</string>
