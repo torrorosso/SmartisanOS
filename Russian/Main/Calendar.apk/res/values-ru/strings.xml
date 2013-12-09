@@ -108,7 +108,7 @@
     <string name="yearly">Ежегодно (в %s)</string>
     <string name="custom">"Другое (нельзя настроить с телефона)"</string>
     <string name="modify_event">Изменить только это мероприятие</string>
-    <string name="modify_all">Изменить все мероприятия/string>
+    <string name="modify_all">Изменить все мероприятия</string>
     <string name="modify_all_following">Изменить это и все последующие мероприятия</string>
     <string name="new_event_dialog_label">Новое мероприятие</string>
     <string name="new_event_dialog_option">Новое мероприятие</string>
