@@ -47,10 +47,10 @@
         <item>Poker face</item>
     </string-array>
     <string-array name="empty_subject_strings">
-        <item>no subject</item>
+        <item>без темы</item>
     </string-array>
     <string-array name="pref_templates_gestures_sensitivity_entries">
-        <item>1 (broadest)</item>
+        <item>1 (приблизительно)</item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
@@ -61,7 +61,7 @@
         <item>9</item>
         <item>10</item>
         <item>11</item>
-        <item>12 (strictest)</item>
+        <item>12 (точно)</item>
     </string-array>
     <string-array name="pref_templates_gestures_sensitivity_values">
         <item>1</item>
@@ -78,11 +78,11 @@
         <item>12</item>
     </string-array>
     <string-array name="pref_mms_notification_vibrate_pattern_entries">
-        <item>Normal</item>
-        <item>Medium Vibrate</item>
-        <item>Long Vibrate</item>
-        <item>Multiple Short</item>
-        <item>Multiple Long</item>
+        <item>По умолчанию</item>
+        <item>Средняя</item>
+        <item>Длительная</item>
+        <item>Несколько коротких</item>
+        <item>Несколько длительных</item>
         <item>@string/pref_title_mms_notification_vibrate_custom</item>
     </string-array>
     <string-array name="pref_mms_notification_vibrate_pattern_values">
@@ -91,7 +91,7 @@
         <item>0,2500</item>
         <item>0,300,100,300,100,300,100,300,100,300</item>
         <item>0,800,200,800,200,800</item>
-        <item>custom</item>
+        <item>заказная</item>
     </string-array>
     <string-array name="pref_entries_input_type">
         <item>@string/pref_keyboard_emoji</item>
@@ -112,16 +112,16 @@
         <item>2</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
-        <item>Other</item>
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Другое</item>
     </string-array>
 </resources>

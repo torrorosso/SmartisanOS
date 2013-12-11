@@ -18,8 +18,8 @@
     <string name="notification_multiple_text_privacy_mode">Непрочитанных сообщений: %1$s</string>
     <string name="notification_ticker_privacy_mode">Новое сообщение</string>
     <string name="pref_title_mms_notification_vibrate_pattern">Вибрация</string>
-    <string name="pref_summary_mms_notification_vibrate_pattern">Изменить шаблон вибрации</string>
-    <string name="pref_title_mms_notification_vibrate_custom">Пользовательский шаблон вибрации</string>
+    <string name="pref_summary_mms_notification_vibrate_pattern">Настройка вибрации</string>
+    <string name="pref_title_mms_notification_vibrate_custom">Пользовательский вариант вибрации</string>
     <string name="pref_text_mms_notification_vibrate_custom">Формат выкл/вкл в миллисекундах: выкл, вкл, выкл, вкл…</string>
     <string name="pref_quickmessage">Быстрый ответ</string>
     <string name="pref_dark_theme_title">Использовать Темную тему</string>
