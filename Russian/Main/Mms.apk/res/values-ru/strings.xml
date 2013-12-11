@@ -451,8 +451,8 @@
     <string name="error_state_text">Состояние диалогов и получателей противоречиво. Пожалуйста, сделайте скриншот отчета об ошибке и сообщите об этом через веб-сайт http://go/droidanizer</string>
     <string name="disable_notifications_dialog_message">Остановить дублирование уведомлений об SMS приложением обмена соощениями по умолчанию? </string>
     <string name="view_more_conversations">Еще диалоги</string>
-    <string name="attachment_audio">Audio</string>
-    <string name="attachment_slideshow">Slideshow</string>
+    <string name="attachment_audio">Аудиозапись</string>
+    <string name="attachment_slideshow">Слайд-шоу</string>
     <string name="attachment_video">Видео</string>
     <string name="attachment_picture">Изображение</string>
     <string name="notification_separator">"  "</string>
