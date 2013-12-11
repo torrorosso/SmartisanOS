@@ -11,7 +11,7 @@
     <string name="qm_mark_read">Прочитать</string>
     <string name="message_counter_separator">от</string>
     <string name="pref_title_notification_privacy_mode_enabled">Режим конфиденциальности</string>
-    <string name="pref_summary_notification_privacy_mode_enabled">Скрыть отправителя и сообщение в строке состояния и отключить 'Быстрый ответ'</string>
+    <string name="pref_summary_notification_privacy_mode_enabled">Скрыть отправителя и сообщение в строке состояния и отключить Быстрый ответ</string>
     <string name="notification_single_title_privacy_mode">Новое сообщение</string>
     <string name="notification_single_text_privacy_mode">1 непрочитанное сообщение</string>
     <string name="notification_multiple_title_privacy_mode">Новые сообщения</string>
@@ -29,7 +29,7 @@
     <string name="pref_wake_unlock_title">Включение и разблокировка экрана</string>
     <string name="pref_wake_unlock_summary">Включать и разблокировать экран  при входящем SMS-сообщении (только в режиме небезопасной блокировки экрана)</string>
     <string name="pref_close_all_title">Закрыть все</string>
-    <string name="pref_close_all_summary">Кнопка 'Закрыть' закрывает все сообщения</string>
+    <string name="pref_close_all_summary">Кнопка Закрыть закрывает все сообщения</string>
     <string name="prefs_templates_settings">Шаблоны сообщений</string>
     <string name="pref_title_templates_manage">Шаблоны</string>
     <string name="pref_summary_templates_manage">Управление шаблонами сообщений</string>
