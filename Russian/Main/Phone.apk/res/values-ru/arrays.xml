@@ -52,9 +52,9 @@
         <item>@null</item>
     </array>
     <string-array name="clir_display_values">
-        <item>Network default</item>
-        <item>Hide number</item>
-        <item>Show number</item>
+        <item>По умолчанию</item>
+        <item>Скрывать номер</item>
+        <item>Показывать номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>Global</item>
@@ -74,7 +74,7 @@
         <item>CDMA/EvDo auto</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>English</item>
+        <item>английс</item>
         <item>French</item>
         <item>Spanish</item>
         <item>Japanese</item>
@@ -83,8 +83,8 @@
         <item>Hebrew</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
+        <item>Только домашняя</item>
+        <item>автоматически</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY Off</item>
@@ -93,22 +93,22 @@
         <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Long</item>
+        <item>Нормальный</item>
+        <item>Длинный</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>Всегда</item>
+        <item>Только в беззвучном режиме</item>
+        <item>Никогда</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_lte_gsm">
         <item>LTE/GSM/WCDMA</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>Приоритет GSM/WCDMA</item>
     </string-array>
     <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
+        <item>ПО  УМОЛЧАНИЮ</item>
+        <item>СКРЫВАТЬ</item>
+        <item>ПОКАЗЫВАТЬ</item>
     </string-array>
     <string-array name="preferred_network_mode_values">
         <item>7</item>
@@ -163,8 +163,8 @@
         <item>1</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>всегда</item>
+        <item>без звука</item>
+        <item>никогда</item>
     </string-array>
 </resources>
