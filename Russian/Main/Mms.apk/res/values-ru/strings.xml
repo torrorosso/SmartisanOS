@@ -92,7 +92,7 @@
     <string name="quick_message_default_3">"Я уже в пути."</string>
     <string name="quick_message_canform_add">Добавить</string>
     <string name="quick_message_add">Добавить свой шаблон</string>
-    <string name="quick_quicktext_title">Быстрый ответ</string>
+    <string name="quick_quicktext_title">Шаблон</string>
     <string name="quick_message_close">Закрыть</string>
     <string name="compose_message_action_message">Сообщения</string>
     <string name="compose_message_action_edit">Изменить</string>
@@ -126,8 +126,8 @@
     <string name="edit_forward">Переслать(%d)</string>
     <string name="send_pending">Готово для отправки</string>
     <string name="input_extention_camera">Камера</string>
-    <string name="input_extention_quick_text">Быстрый ответ</string>
-    <string name="input_extention_cantact">Отправить контакт</string>
+    <string name="input_extention_quick_text">Шаблон</string>
+    <string name="input_extention_cantact">Контакт</string>
     <string name="group_failed_text">Не удалось отправить</string>
     <string name="more_item_string">и еще %1$s…</string>
     <string name="compose_group_more">Больше</string>
@@ -137,10 +137,10 @@
     <string name="compose_group_delieverd">Отправлено</string>
     <string name="settings_label">Настройки</string>
     <string name="settings_message_title">Сообщения</string>
-    <string name="setting_send_report_text">Отправить отчет</string>
-    <string name="setting_cancel_text">Разрешить отмену во время отправки</string>
-    <string name="settings_message_back">Назад</string>
-    <string name="setting_pop_enable">Настройка всплывающих сообщений</string>
+    <string name="setting_send_report_text">Отчет о доставке</string>
+    <string name="setting_cancel_text">Отменять отправку</string>
+    <string name="settings_message_back">Настройки</string>
+    <string name="setting_pop_enable">Всплывающее окно</string>
     <string name="missing_name">(Без имени)</string>
     <string name="copy_message_done">Текст скопирован</string>
     <string name="pull_to_process_mms">Потяните вниз для обработки</string>
@@ -161,7 +161,7 @@
     <string name="pop_recive_new_sms">pop_recive_new_sms</string>
     <string name="compose_quick_text_topbar_edit_complete">Готово</string>
     <string name="compose_topbar_add_contact">Контакт</string>
-    <string name="setting_mms_auto_retrieval">Получать MMS автоматически</string>
+    <string name="setting_mms_auto_retrieval">Автополучение MMS</string>
     <string name="missing_app">Не найдено приложений  для обработки данного действия</string>
     <string name="send_failure_group_error">Не удалось отправить</string>
     <string name="sms_added_calendar">Добавлено в календарь</string>

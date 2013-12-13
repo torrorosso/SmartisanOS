@@ -9,7 +9,7 @@
         <item quantity="one">1 контакт</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d нойдено</item>
+        <item quantity="other">%d найдено</item>
         <item quantity="one">1 найден</item>
     </plurals>
     <plurals name="searchFoundContacts">
