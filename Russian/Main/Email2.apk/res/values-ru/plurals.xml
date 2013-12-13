@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="move_messages">
-        <item quantity="other">Move messages</item>
-        <item quantity="one">Move message</item>
+        <item quantity="other">Переместить сообщения</item>
+        <item quantity="one">Переместить сообщение</item>
     </plurals>
     <plurals name="notification_new_one_account_fmt">
-        <item quantity="other">%1$d unread (%2$s)</item>
-        <item quantity="one">%1$d unread (%2$s)</item>
-        <item quantity="few">%1$d unread (%2$s)</item>
+        <item quantity="other">%1$d непрочитанных (%2$s)</item>
+        <item quantity="one">%1$d непрочитанное (%2$s)</item>
+        <item quantity="few">%1$d непрочитанных (%2$s)</item>
     </plurals>
     <plurals name="notification_new_multi_account_fmt">
-        <item quantity="other">in %d accounts</item>
-        <item quantity="few">in %d accounts</item>
+        <item quantity="other">в %d аккаунтах</item>
+        <item quantity="few">в %d аккаунтах</item>
     </plurals>
     <plurals name="number_of_accounts">
-        <item quantity="other">%1$d accounts</item>
-        <item quantity="one">%1$d account</item>
+        <item quantity="other">Число аккаунтов: %1$d</item>
+        <item quantity="one">Число аккаунтов: %1$d</item>
     </plurals>
     <plurals name="picker_combined_view_account_count">
-        <item quantity="other">%d accounts</item>
-        <item quantity="one">%d account</item>
+        <item quantity="other">Аккаунтов: %d</item>
+        <item quantity="one">Аккаунтов: %d</item>
     </plurals>
     <plurals name="message_view_selected_message_count">
-        <item quantity="other">%d selected</item>
-        <item quantity="one">%d selected</item>
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
     </plurals>
     <plurals name="message_view_show_attachments_action">
-        <item quantity="other">Attachments %1$d</item>
-        <item quantity="one">Attachment %1$d</item>
+        <item quantity="other">Вложений: %1$d</item>
+        <item quantity="one">Вложений: %1$d</item>
     </plurals>
     <plurals name="message_delete_confirm">
-        <item quantity="other">Delete these messages?</item>
-        <item quantity="one">Delete this message?</item>
+        <item quantity="other">Удалить сообщения?</item>
+        <item quantity="one">Удалить сообщение?</item>
     </plurals>
     <plurals name="message_deleted_toast">
-        <item quantity="other">Messages deleted.</item>
-        <item quantity="one">Message deleted.</item>
+        <item quantity="other">Сообщения удалены</item>
+        <item quantity="one">Сообщение удалено</item>
     </plurals>
     <plurals name="message_moved_toast">
         <item quantity="other">%1$d messages moved to %2$s</item>
