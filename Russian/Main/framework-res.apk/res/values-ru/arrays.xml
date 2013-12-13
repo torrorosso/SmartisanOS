@@ -613,10 +613,10 @@
     </integer-array>
     <array name="common_nicknames" />
     <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Свой</item>
     </string-array>
     <array name="carrier_properties" />
 </resources>
