@@ -646,7 +646,7 @@
     <string name="china_telecom">China Telecom</string>
     <string name="dialog_title_import_contacts_in_empty">Импортировать контакты</string>
     <string name="import_from_third_part_accout">Импортировать из стороннего аккаунта</string>
-    <string name="btn_share_contact_launcher">Добавить контакт на рабочий стол</string>
+    <string name="btn_share_contact_launcher">Добавить на рабочий стол</string>
     <string name="share_contact_dialog_title">Отправить контакт</string>
     <string name="send_succeed">Отправка удалась</string>
     <string name="import_contacts_from_sim_canceled">отменен импорт контактов с SIM карты</string>
