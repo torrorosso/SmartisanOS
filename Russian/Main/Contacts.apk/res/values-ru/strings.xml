@@ -591,8 +591,8 @@
     <string name="btn_share_contact_text">Послать контакт как текст</string>
     <string name="btn_share">Поделиться</string>
     <string name="btn_recent">Последние</string>
-    <string name="btn_delete_contact">Удалить контакт</string>
-    <string name="btn_share_contact_vcf">послать контакт как vcf</string>
+    <string name="btn_delete_contact">Удалить</string>
+    <string name="btn_share_contact_vcf">Послать контакт как vcf</string>
     <string name="btn_delete_this_contact">Удалить контакт</string>
     <string name="btn_sendmessage">Сообщение</string>
     <string name="btn_sendemail">E-mail</string>
