@@ -598,8 +598,8 @@ Try again or call customer service for more options."</string>
     <string name="hold_and_answer">Удержать и ответить</string>
     <string name="end_and_answer">Завершить и ответить</string>
     <string name="incoming_call">входящий вызов</string>
-    <string name="slide_down_to_answer">проведите вних чтобы ответить</string>
-    <string name="silde_up_to_reject">проведите вверх чтобы отклонить</string>
+    <string name="slide_down_to_answer">сдвиньте вниз чтобы ответить</string>
+    <string name="silde_up_to_reject">сдвиньте вверх чтобы отклонить</string>
     <string name="seperate_call">отделить вызов</string>
     <string name="add_new_call">добавить вызов</string>
     <string name="speaker">динамик</string>
