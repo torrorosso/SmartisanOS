@@ -124,7 +124,7 @@
     <string name="send_status_faild">Не удалось отправить</string>
     <string name="edit_delete">Удалить(%d)</string>
     <string name="edit_forward">Переслать(%d)</string>
-    <string name="send_pending">Готово для отправки</string>
+    <string name="send_pending">Отправляется</string>
     <string name="input_extention_camera">Камера</string>
     <string name="input_extention_quick_text">Шаблон</string>
     <string name="input_extention_cantact">Контакт</string>
