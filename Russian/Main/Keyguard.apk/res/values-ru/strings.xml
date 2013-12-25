@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Keyguard</string>
-    <string name="easy_password_btn_emergency">EMG Dial</string>
-    <string name="kg_pattern_instructions">Draw your pattern</string>
-    <string name="unlock_screen_btn_emergency">EMG call</string>
-    <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-    <string name="lockscreen_carrier_default">No service.</string>
-    <string name="kg_wrong_password">Wrong Password</string>
-    <string name="kg_pattern_try_later">Try again in %d seconds</string>
-    <string name="tip_button_phone_pressed">Slide to phone</string>
-    <string name="tip_button_sms_pressed">Slide to mms</string>
-    <string name="tip_button_camera_pressed">Slide to camera</string>
-    <string name="tip_button_blank_pressed">Slide to unlock</string>
-    <string name="unlock_screen_pattern_title">Draw your pattern</string>
-    <string name="unlock_screen_btn_cancel">CANCEL</string>
-    <string name="please_enter_easy_password">Enter password</string>
-    <string name="keyguard_password">Password</string>
-    <string name="kg_wrong_pin">Wrong PIN</string>
-    <string name="easy_password_wrong">Wrong password</string>
-    <string name="kg_wrong_pattern">Wrong Pattern</string>
-    <string name="kg_password_wrong_pin_code">Incorrect PIN code.</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="kg_puk_enter_pin_hint">Set desired PIN code</string>
-    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match, try again</string>
-    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"You have incorrectly drawn your unlock pattern %d times. 
+    <string name="easy_password_btn_emergency">Экстренный вызов</string>
+    <string name="kg_pattern_instructions">Введите рисунок</string>
+    <string name="unlock_screen_btn_emergency">Экстренный вызоа</string>
+    <string name="kg_sim_pin_instructions">Введите PIN</string>
+    <string name="kg_puk_enter_puk_hint">SIM карта заблокирована. Введите PUK код чтобы разблокировать. Свяжитесь с оператором для дополнительной инормации.</string>
+    <string name="lockscreen_carrier_default">Нет сети.</string>
+    <string name="kg_wrong_password">Неверный пароль</string>
+    <string name="kg_pattern_try_later">Повторите попытку через %d секунд</string>
+    <string name="tip_button_phone_pressed">Телефон</string>
+    <string name="tip_button_sms_pressed">Сообщения</string>
+    <string name="tip_button_camera_pressed">Камера</string>
+    <string name="tip_button_blank_pressed">Разблокируйте</string>
+    <string name="unlock_screen_pattern_title">Введите рисунок</string>
+    <string name="unlock_screen_btn_cancel">ОТМЕНА</string>
+    <string name="please_enter_easy_password">Введите пароль</string>
+    <string name="keyguard_password">Пароль</string>
+    <string name="kg_wrong_pin">Неверный PIN</string>
+    <string name="easy_password_wrong">Неверный пароль</string>
+    <string name="kg_wrong_pattern">Неверный рисунок</string>
+    <string name="kg_password_wrong_pin_code">Некорректный PIN код.</string>
+    <string name="kg_invalid_sim_pin_hint">Введите PIN код от 4 до 8 цифр.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
+    <string name="kg_puk_enter_pin_hint">Установите PIN код</string>
+    <string name="kg_enter_confirm_pin_hint">Подтвердите PIN код</string>
+    <string name="kg_invalid_sim_puk_hint">PUK должен быть не короче 8 цифр.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN коды не подходят, попробуйте еще</string>
+    <string name="kg_invalid_puk">Введите корректный PUK код. Повторные попытки заблокируют SIM карту.</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Вы неправильно ввели рисунок разблокировки %d раз. 
 
-Try again later."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"You have incorrectly typed your password %d times. 
+Попробуйте позже."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Вы некорректно ввели пароль %d раз. 
 
-Try again later."</string>
+Попробуйте позже."</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"You have incorrectly typed your password %d times. 
 
 Try again later."</string>
