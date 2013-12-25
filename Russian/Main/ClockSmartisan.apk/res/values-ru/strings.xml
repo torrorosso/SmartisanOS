@@ -3,6 +3,7 @@
     <string name="ga_trackingId">UA-41757130-9</string>
     <string name="app_name">Часы</string>
     <string name="no_worldclock">Системное время</string>
+    <string name="no_worldclock_net_active">Местное время</string>
     <string name="no_alarmclock">Нет будильников</string>
     <string name="ring">Рингтон</string>
     <string name="today">Сегодня</string>
@@ -20,9 +21,9 @@
     <string name="delete">Удалить</string>
     <string name="vibrate">Вибрировать</string>
     <string name="snooze">Вздремнуть</string>
-    <string name="left_time">%1$d ч %2$d м осталось</string>
-    <string name="left_time_less_1hour">%1$d м осталось</string>
-    <string name="left_time_lt_1min">&lt; 1 минуты осталось</string>
+    <string name="left_time">Осталось %1$d ч %2$d м</string>
+    <string name="left_time_less_1hour">Осталось %1$d м</string>
+    <string name="left_time_lt_1min"Осталось >&lt; 1 минуты</string>
     <string name="tabBar_alarm">Будильник</string>
     <string name="alarm">Будильник</string>
     <string name="worldClock">Мировое время</string>
