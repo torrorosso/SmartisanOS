@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="timezone_filters">
+    <string-array name="часовые пояса">
         <item>Америка</item>
         <item>Европа</item>
         <item>Африка</item>
@@ -9,13 +9,13 @@
         <item>Тихий океан</item>
         <item>Все</item>
     </string-array>
-    <string-array name="date_format_values">
+    <string-array name="формат даты">
         <item></item>
         <item>MM-dd-yyyy</item>
         <item>dd-MM-yyyy</item>
         <item>yyyy-MM-dd</item>
     </string-array>
-    <string-array name="screen_timeout_entries">
+    <string-array name="спящий режим">
         <item>15 секунд</item>
         <item>30 секунд</item>
         <item>1 минута</item>
@@ -24,7 +24,7 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-    <string-array name="screen_timeout_values">
+    <string-array name="спящий режим">
         <item>15000</item>
         <item>30000</item>
         <item>60000</item>
@@ -33,7 +33,7 @@
         <item>600000</item>
         <item>1800000</item>
     </string-array>
-    <string-array name="dream_timeout_entries">
+    <string-array name="спящий режим">
         <item>Никогда</item>
         <item>15 секунд</item>
         <item>30 секунд</item>
@@ -43,7 +43,7 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-    <string-array name="dream_timeout_values">
+    <string-array name="спящий режим">
         <item>0</item>
         <item>15000</item>
         <item>30000</item>
@@ -53,7 +53,7 @@
         <item>600000</item>
         <item>1800000</item>
     </string-array>
-    <string-array name="lock_after_timeout_entries">
+    <string-array name="блокировать после">
         <item>Immediately</item>
         <item>5 секунд</item>
         <item>15 секунд</item>
@@ -64,7 +64,7 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-    <string-array name="lock_after_timeout_values">
+    <string-array name="блокировать после">
         <item>0</item>
         <item>5000</item>
         <item>15000</item>
@@ -75,40 +75,40 @@
         <item>600000</item>
         <item>1800000</item>
     </string-array>
-    <string-array name="entries_font_size">
+    <string-array name="размер шрифта">
         <item>Мелкий</item>
         <item>Нормальный</item>
         <item>Большой</item>
         <item>Огромный</item>
     </string-array>
-    <string-array name="entryvalues_font_size">
+    <string-array name="размер шрифта">
         <item>0.85</item>
         <item>1.0</item>
         <item>1.15</item>
         <item>1.30</item>
     </string-array>
-    <string-array name="tts_rate_entries">
+    <string-array name="скорость TTS">
         <item>Очень медленно</item>
         <item>Медленно</item>
         <item>Нормально</item>
         <item>Быстро</item>
         <item>Очень быстро</item>
     </string-array>
-    <string-array name="tts_rate_values">
+    <string-array name="скорость TTS">
         <item>60</item>
         <item>80</item>
         <item>100</item>
         <item>150</item>
         <item>200</item>
     </string-array>
-    <string-array name="tts_pitch_entries">
+    <string-array name="шаг TTS">
         <item>Очень низкий</item>
         <item>Низкий</item>
         <item>Нормальный</item>
         <item>Высокий</item>
         <item>Очень высокий</item>
     </string-array>
-    <string-array name="tts_pitch_values">
+    <string-array name="шаг TTS">
         <item>50</item>
         <item>80</item>
         <item>100</item>
