@@ -101,7 +101,7 @@
     <string name="bluetooth_only_visible_to_paired_devices">Видим только спаренным устройствам</string>
     <string name="bluetooth_visibility_timeout">Таймаут видимости</string>
     <string name="bluetooth_lock_voice_dialing">Заблокировать голосовые вызовы</string>
-    <string name="bluetooth_lock_voice_dialing_summary">Блокировать вызов по Bluetooth когда экран заблокирован/string>
+    <string name="bluetooth_lock_voice_dialing_summary">Блокировать вызов по Bluetooth когда экран заблокирован</string>
     <string name="bluetooth_devices">Bluetooth устройства</string>
     <string name="bluetooth_device_name">Имя устройства</string>
     <string name="bluetooth_device_details">Настройки устройства</string>
@@ -266,7 +266,7 @@ This setting affects all users on this phone."</string>
     <string name="date_time_auto_summaryOff">Использовать время сети</string>
     <string name="zone_auto">Автоматический часовой пояс</string>
     <string name="zone_auto_summaryOn">Использовать часовой пояс сети</string>
-    <string name="zone_auto_summaryOff">Использовать часовой пояс сети/string>
+    <string name="zone_auto_summaryOff">Использовать часовой пояс сети</string>
     <string name="date_time_24hour">Использовать 24-часовой формат</string>
     <string name="date_time_set_time">Установить время</string>
     <string name="date_time_set_timezone">Выберите часовой пояс</string>
