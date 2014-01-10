@@ -23,7 +23,7 @@
     <string name="snooze">Вздремнуть</string>
     <string name="left_time">Осталось %1$d ч %2$d м</string>
     <string name="left_time_less_1hour">Осталось %1$d м</string>
-    <string name="left_time_lt_1min"Осталось >&lt; 1 минуты</string>
+    <string name="left_time_lt_1min">Осталось &lt; 1 минуты</string>
     <string name="tabBar_alarm">Будильник</string>
     <string name="alarm">Будильник</string>
     <string name="worldClock">Мировое время</string>
