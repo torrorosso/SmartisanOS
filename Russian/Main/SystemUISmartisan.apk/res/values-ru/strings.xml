@@ -30,7 +30,7 @@
     <string name="recent_panel_clear_all_task">Очистить все задачи</string>
     <string name="recent_panel_close_one_task">Закрыть одно приложение</string>
     <string name="recent_panel_enter_app">Войти в приложение через менеджер задач</string>
-    <string name="widget_wifi">WLAN</string>
+    <string name="widget_wifi">Wi-Fi</string>
     <string name="widget_vpn">VPN</string>
     <string name="smartsian_shot_menu_btn_dismiss">Отмена</string>
     <string name="smartsian_shot_menu_btn_crop">Сохранить</string>
