@@ -34,7 +34,6 @@
     <string name="alert_sound_duration_title">Длительность звукового сигнала</string>
     <string name="enable_alert_speech_title">Произносить аварийные сообщения</string>
     <string name="enable_alert_speech_summary">Использовать функцию преобразования текста в речь для создания аварийных сообщений</string>
-    <string name="alert_sound_duration_title">Длительность уведомления</string>
     <string name="category_etws_settings_title">Настройки системы предупреждения о землетрясении</string>
     <string name="enable_etws_test_alerts_title">Показывать тестовые трансляции</string>
     <string name="enable_etws_test_alerts_summary">Показывать тестовые трансляции для системы предупреждения о землетрясении и цунами</string>
