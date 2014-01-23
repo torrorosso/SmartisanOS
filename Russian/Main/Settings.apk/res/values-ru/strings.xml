@@ -2438,9 +2438,10 @@ In selecting 'OK' below, you acknowledge this warning and waive, indemnify and h
     <string name="call_header_title">Телефон</string>
     <string name="sms_header_title">Сообщения</string>
     <string name="advenced_settings_header_title">Дополнительные настройки</string>
-    <string name="lock_screen_header_title">Password &amp; lockscreen</string>
-    <string name="security_header_title">Security</string>
-    <string name="brightness_auto_switch">Auto adjust screen brightness</string>
+    <string name="lock_screen_header_title">Экран блокировки</string>
+    <string name="security_header_title">Безопасность</string>
+    <string name="nodisturb_header_title">Не беспокоить</string>
+    <string name="brightness_auto_switch">Авторегулировка яркости</string>
     <string name="sub_title_wifi">Hammer</string>
     <string name="sub_title_bluetooth">Bose SoundLink</string>
     <string name="date_time_auto_set">Auto setting</string>
@@ -2704,9 +2705,9 @@ In selecting 'OK' below, you acknowledge this warning and waive, indemnify and h
     <string name="lockscreen_mode_item_subtitle_easy">4-digit number password</string>
     <string name="lockscreen_mode_item_subtitle_hard">4-16 characters long password(numbers, letters, symbols)</string>
     <string name="lockscreen_mode_item_password_title">Password</string>
-    <string name="notification_header_title">Notification center</string>
-    <string name="obsession_header_title">Obsession settings</string>
-    <string name="contact_header_title">Contacts</string>
+    <string name="notification_header_title">Центр уведомлений</string>
+    <string name="obsession_header_title">Настройки иконок</string>
+    <string name="contact_header_title">Контакты</string>
     <string name="font_setting_text_default">Default font</string>
     <string name="font_setting_text_huawen">STHeiti</string>
     <string name="wallpaper_setting_text">Lock screen wallpaper</string>
