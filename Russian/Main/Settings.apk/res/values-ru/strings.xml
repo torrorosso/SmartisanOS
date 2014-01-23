@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ga_trackingId">UA-41757130-11</string>
     <string name="additional_system_update" />
@@ -1999,7 +1999,7 @@ For an example of the data that is submitted, tap on Preview Data."</string>
     <string name="toggleSync">Data Sync</string>
     <string name="toggle2g3g">2G/3G</string>
     <string name="toggleSound">Ring Mode</string>
-    <string name="toggleBrightness">Brightness</string>
+    <string name="toggleBrightness">Яркость</string>
     <string name="toggleAutoRotate">Orientation</string>
     <string name="toggleScreenTimeout">Screen Timeout</string>
     <string name="toggleAirplane">Airplane</string>
@@ -2339,7 +2339,7 @@ Do you really want to enable this function?"</string>
     <string name="title_tile_airplane">Airplane mode</string>
     <string name="title_tile_battery">Battery stats</string>
     <string name="title_tile_bluetooth">Bluetooth</string>
-    <string name="title_tile_brightness">Brightness</string>
+    <string name="title_tile_brightness">Яркость</string>
     <string name="title_tile_sleep">Go to sleep</string>
     <string name="title_tile_gps">GPS</string>
     <string name="title_tile_torch">Torch</string>
@@ -2529,7 +2529,7 @@ In selecting 'OK' below, you acknowledge this warning and waive, indemnify and h
     <string name="advanced_item_certificate">Сертификаты</string>
     <string name="advanced_item_development">Разработка</string>
     <string name="mobile_network_mode">Only for 2G network</string>
-    <string name="mobile_network_ap">Personal hotspot</string>
+    <string name="mobile_network_ap">Точка доступа Wi-Fi</string>
     <string name="mobile_network_roam">Data roaming</string>
     <string name="mobile_network_vpn">APN setting</string>
     <string name="vpn_btn_add">Add</string>
