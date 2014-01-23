@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_button_text_back">Back</string>
+    <string name="app_name">BackUp</string>
+    <string name="backup_title">Data Backup</string>
+    <string name="create_backup">Create</string>
+    <string name="create_backup_tips">You can back up your contacts, messages, recordings, and camera roll by creating a backup. You can find the backup file in /smartisan/Backup.</string>
+    <string name="backup_item_contact">Contacts</string>
+    <string name="contact_summary_format">"%d "</string>
+    <string name="backup_item_message">Messages</string>
+    <string name="message_summary_format">"%d "</string>
+    <string name="backup_item_camera">Camera Roll</string>
+    <string name="camera_summary_format">%1$d photos %2$d videos</string>
+    <string name="backup_item_record">Recordings</string>
+    <string name="record_summary_format">"%d "</string>
+    <string name="backup_start_tips">Choose backup content</string>
+    <string name="backup_processing_tips">Creating backup, please do not turn off the device.</string>
+    <string name="backup_success_tips">Backup created: %s</string>
+    <string name="success_time_format">yyyy-MM-dd HH:mm</string>
+    <string name="restore_start_tips">Choose restore content, the original content will be overwritten.</string>
+    <string name="restore_processing_tips">Restoring，please do not turn off the device.</string>
+    <string name="restore_success_tips">Your device has been restored: %s</string>
+    <string name="backup_detail">Backup Detail</string>
+    <string name="backup_start">Create Backup</string>
+    <string name="backup_stop">Stop</string>
+    <string name="finish">Done</string>
+    <string name="restore">Restore From Backup</string>
+    <string name="restore_stop">Stop</string>
+    <string name="delete">Delete</string>
+    <string name="delete_backup_confirm_title">Delete This Backup？</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_confirm">Delete</string>
+    <string name="backuped">Backup Created</string>
+    <string name="restored">Restored</string>
+    <string name="failed">Failed</string>
+    <string name="backup_history">Backup History</string>
+    <string name="backup_history_none">No Backup History</string>
+</resources>
