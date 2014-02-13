@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wind_speed_desc">
+        <item>0.0~0.2м/с</item>
+        <item>0.3~1.5м/с</item>
+        <item>1.6~3.3м/с</item>
+        <item>3.4~5.4м/с</item>
+        <item>5.5~7.9м/с</item>
+        <item>8.0~10.7м/с</item>
+        <item>10.8~13.8м/с</item>
+        <item>13.9~17.1м/с</item>
+        <item>17.2~20.7м/с</item>
+        <item>20.8~24.4м/с</item>
+        <item>24.5~28.4м/с</item>
+        <item>28.5~32.6м/с</item>
+        <item>32.7~36.9м/с</item>
+        <item>37.0~41.4м/с</item>
+        <item>41.5~46.1м/с</item>
+        <item>46.2~50.9м/с</item>
+        <item>51.0~56.0м/с</item>
+        <item>56.1~61.2м/с</item>
+    </string-array>
+    <string-array name="wind_speed">
+        <item>0.1</item>
+        <item>0.9</item>
+        <item>2.45</item>
+        <item>4.4</item>
+        <item>6.7</item>
+        <item>9.35</item>
+        <item>12.3</item>
+        <item>15.5</item>
+        <item>18.95</item>
+        <item>22.6</item>
+        <item>26.45</item>
+        <item>30.55</item>
+        <item>34.8</item>
+        <item>39.2</item>
+        <item>43.8</item>
+        <item>48.55</item>
+        <item>53.5</item>
+        <item>58.65</item>
+    </string-array>
+</resources>
