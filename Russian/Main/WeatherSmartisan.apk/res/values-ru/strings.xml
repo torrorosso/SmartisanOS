@@ -19,13 +19,13 @@
     <string name="local_city">Здесь</string>
     <string name="get_weather_data_failed">Не удалось получить данные о погоде</string>
     <string name="get_weather_data">Получение данных</string>
-    <string name="real_feel_temp">По ощущению</string>
+    <string name="real_feel_temp">Ощущается как</string>
     <string name="relative_Humidity">Влажность</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="network_dialog_title">Таймаут соединения</string>
     <string name="network_dialog_content">Пожалуйста, попробуйте снова</string>
-    <string name="real_feel_des">Температура "По ощущению" - показатель, основанный на температуре, влажности и скорости ветра</string>
+    <string name="real_feel_des">Температура ощущений - показатель, скорректированный на основании влажности и скорости ветра</string>
     <string name="compare_to_yesterday" formatted="false">чем вчера%s%d℃</string>
     <string name="colder">Холоднее</string>
     <string name="warmer">Теплее</string>
