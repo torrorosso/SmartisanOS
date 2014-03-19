@@ -651,7 +651,7 @@
     <string name="call_forward_query_failed">Запрос не удался, попробуйте позже!</string>
     <string name="cellular_data">Интернет</string>
     <string name="open_cellular_data">Включить передачу данных</string>
-    <string name="data_roaming">Роуминг для передачи данных</string>
+    <string name="data_roaming">Роуминг для траффика</string>
     <string name="data_roaming_switch_tip">Вы по-прежнему можете использовать мобильный интернет, находясь в других странах и регионах Это может вызвать значительные расходы!</string>
     <string name="three_generation_connection">3G сеть</string>
     <string name="three_generation_connection_switch_tip">Выключите 3G сеть чтобы сэкономить заряд батареи</string>
